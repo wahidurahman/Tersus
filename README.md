@@ -7,3 +7,5 @@ Small businesses in the last decade have seen incredible leaps forward in their 
 Tersus is looking to act on existing infrastructure and extrapolate further on what data already exists to pass on useful information and recommendations to enable small businesses to make the right choices and optimize their operations. 
 
 
+Lets get smart.
+
