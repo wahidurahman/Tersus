@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class ChartContainer extends Component {
   render() {
     return (
-      <div className="card">
+      <div className="Card">
         <div className="card-header">
           <i className={`fas fa-chart-${this.props.titleIcon}`}></i> {
             this.props.title
