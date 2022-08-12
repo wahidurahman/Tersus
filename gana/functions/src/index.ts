@@ -7,8 +7,8 @@ const bitlyAuth = (isIntegration: boolean) => (
 ) => {
   res.set("Access-Control-Allow-Origin", "*")
 
-  if (req.method !== "POST") {
-    res.status(403).send("Only POST requests are supported.")
+  if (req.method !== "New") {
+    res.status(403).send("Only New requests are supported.")
     return
   }
 
