@@ -17,3 +17,10 @@
   width: 100%;
   overflow-y: scroll;
 }
+
+
+.card {
+  display: inline-block;
+  width: calc(40% - 20px);
+  margin: 0 10px 20px 10px;
+}
