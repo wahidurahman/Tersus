@@ -22,6 +22,15 @@ class App extends Component {
         </ChartContainer>
         <ChartContainer titleIcon="bar" title="Failures by Browser">
           <FailuresByBrowser />
+      </ChartContainer>
+        <ChartContainer titleIcon="bar" title="Failures by Schema">
+          <FailuresByBrowser />
+      </ChartContainer>
+        <ChartContainer titleIcon="bar" title="Failures by Target">
+          <FailuresByBrowser />
+      </ChartContainer>
+        <ChartContainer titleIcon="bar" title="Failures by Domain">
+          <FailuresByBrowser />
         </ChartContainer>
         <ChartContainer titleIcon="bar" title="Bitrate by Country">
           <BitrateByCountry />
